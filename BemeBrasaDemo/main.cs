@@ -18,6 +18,8 @@ namespace BemeBrasaDemo
             SidePanel.Height = button1.Height;
             SidePanel.Top = button1.Top;
             firstCustomControl1.BringToFront();
+            
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -77,5 +79,30 @@ namespace BemeBrasaDemo
             SidePanel.Top = button18.Top;
             adm1.BringToFront();
         }
+        private void button13_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+        private void button13_MouseEnter(object sender, EventArgs e)
+        {
+            button13.ForeColor = Color.Red;
+        }
+        private void button13_MouseLeave(object sender, EventArgs e)
+        {
+            button13.ForeColor = Color.Transparent;
+        }
+       
+        private void button21_Click(object sender, EventArgs e)
+        {
+            // Maximizar o formulário
+            this.WindowState = FormWindowState.Maximized;
+        }
+        private void button20_Click(object sender, EventArgs e)
+        {
+            // Minimizar o formulário
+            this.WindowState = FormWindowState.Minimized;
+
+        }
+        
     }
 }
