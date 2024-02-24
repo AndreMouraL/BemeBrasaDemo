@@ -24,7 +24,7 @@ Esta é uma versão demo do nosso software, projetada para fornecer uma amostra 
 Por favor, esteja ciente de que estamos trabalhando diligentemente para melhorar e expandir este projeto. Sua paciência e feedback são muito apreciados enquanto continuamos a desenvolver o software para atender às necessidades de nossos usuários.
 
 Atenção:
-Exibir;
+Exibir e
 Alterar Senha;
 Banco de Dados;
 Instalador e outras funçôes e acessae em qualquer lugar;
