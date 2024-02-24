@@ -29,5 +29,6 @@ Alterar Senha;
 Banco de Dados;
 Instalador e outras funçôes e acessae em qualquer lugar;
 Tela - Pix - Qr Code; Dinheiro - Dinheiro ; Cartão - Molde de   Cartão; 
+Redimencionar (Maximizar e Minimizar);
 
 © Todos os direitos reservados.
