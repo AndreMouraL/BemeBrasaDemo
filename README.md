@@ -35,7 +35,7 @@ Reconhecimentos e Direitos Autorais
 
 @autor: Andre Moura Lima
 
-@data última versão: [01.0]
+@data última versão: 03.07.2024
 
 @versão: 1.0
 
